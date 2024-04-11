@@ -1,5 +1,5 @@
 ## Calculating the array elements and detecting the type of each element
-- this very simple C++ code asks the user for his name, then it will calculates the name length, then it disassembles the name and each letter adds the an array, then reassembles those letters which means will output the entered name before, and then print each letter type (Letter, number, space, character)...
+- This very simple C++ code asks the user for his name, then it will calculate the name length, then it disassembles the name and each letter adds it into an array, then reassembles those letters which means will output the entered name before, and then print each letter type (Letter, number, space, character)...
 # Exemple
 - input
 ```Enter you name: yahia bsk 123 &é@```
